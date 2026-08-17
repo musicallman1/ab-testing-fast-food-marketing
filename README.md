@@ -1,5 +1,7 @@
 # A/B Testing Analysis: Fast Food Marketing Promotions
 
+**[View the full A/B Test Report (Google Doc)](https://docs.google.com/document/d/1s_NykYjR4rIQtQmPBAca8SxVUSQ_tBa05RwwD0068lc/edit)**
+
 ## Objective
 A fast food chain ran three different marketing promotions across randomly assigned store
 locations and wants to know which one actually drives more sales — and whether it's worth
